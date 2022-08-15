@@ -18,6 +18,7 @@ input[type="button"]
 }
 
 input[type="text"] {
+    text-align: end;
     padding: 20px 30px;
     font-size: 24px;
     font-weight: bold;
